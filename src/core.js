@@ -1,4 +1,3 @@
-ssss
 var
 	// A central reference to the root jQuery(document)
 	rootjQuery,
